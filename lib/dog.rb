@@ -1,4 +1,6 @@
 class Dog
-  bark.method
+  def bark.method 
+    puts "woof"
+  end
 end
 
